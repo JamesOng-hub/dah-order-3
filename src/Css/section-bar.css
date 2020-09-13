@@ -1,0 +1,12 @@
+.section-bar {
+  display: flex;
+  flex-direction: row;
+  overflow-x: auto;
+}
+
+.section-bar__section {
+  margin: 5px;
+  white-space: nowrap;
+
+  /* background-color: #b7bfc4; */
+}

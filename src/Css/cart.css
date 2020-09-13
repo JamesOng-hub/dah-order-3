@@ -1,0 +1,12 @@
+.cart__list-bar {
+  margin: 3px;
+}
+
+.cart__checkout-list-grid {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  row-gap: 10px;
+  margin: 10px;
+}
+
+

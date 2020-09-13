@@ -1,0 +1,9 @@
+.section-item {
+  padding: 20px;
+}
+
+.section-item__title {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px;
+}

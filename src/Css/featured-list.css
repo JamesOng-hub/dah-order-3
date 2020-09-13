@@ -1,0 +1,15 @@
+.featured-list {
+  display: flex;
+  flex-direction: row;
+  overflow-x: auto;
+}
+
+.featured-list-title-tag {
+  display: flex;
+  justify-content: space-between;
+}
+
+.featured-list__title {
+  font-size: large;
+  font-style: bold;
+}
